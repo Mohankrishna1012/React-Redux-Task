@@ -1,0 +1,52 @@
+.navbars{
+    background-color:rgb(19, 25, 33)
+}
+.active{
+    color: rgb(81, 81, 81) !important;
+    background-color: rgb(233, 255, 0)
+}
+
+.page{
+    text-decoration: none;
+   -webkit-text-fill-color: rgb(25, 28, 27);
+    background-color:rgb(233, 255, 0);
+    width: 70px !important;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 3rem;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    padding: 3px 8px 4px 8px;
+    border-radius: 2px;
+}
+.cart-page{
+    text-decoration: none;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 3rem;
+    width: 120px;
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: 500;
+    color: rgb(80, 80, 80);
+    padding: 3px 8px 4px 8px;
+    border-radius: 2px;
+    background-color: aliceblue;
+}
+.cart-page svg{
+    height: 25px;
+}
+.nav-head{
+    color: white !important;
+    font-size: 25px !important;
+    font-weight: 500 !important;
+}
+#count{
+    margin-top: 5px;
+    padding: 1px 6px 2px 6px !important;
+    background-color: black; 
+    color: white; 
+    height: 20px; 
+    border-radius: 5px;
+    font-size: 12px;
+}
